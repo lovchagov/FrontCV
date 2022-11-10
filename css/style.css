@@ -403,3 +403,7 @@ footer {
 footer a img{
 	width: 50px;
 }
+
+.item__company {
+	color: black;
+}
