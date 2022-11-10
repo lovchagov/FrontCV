@@ -369,6 +369,16 @@ h3 {
 	line-height: 30px;
 }
 
+.contacts__text ul li a{ 
+	color: black;
+}
+
+.contacts__text ul li a:hover{ 
+	background: linear-gradient(45deg, #20ecc3 33%, #f10fd5 66%, #8AA9D6);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
 .contacts__text ul li a img{ 
 	width: 30px;
 }
